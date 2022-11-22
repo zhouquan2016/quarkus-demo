@@ -1,0 +1,4 @@
+# Project exclude paths
+/mybatis/deployment/target/
+/mybatis/runtime/target/
+/mybatis/target/
